@@ -1,0 +1,2 @@
+instalar dependencias del proyecto
+> npm install --save yargs colors
